@@ -1,2 +1,4 @@
 First commit
-Print('Привет с GitHub')
+Print('Привет, АННА')
+Print('Как дела?')
+Print('Изучаем Python')
